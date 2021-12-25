@@ -20,4 +20,4 @@
 ```bash
   sh Shell_Script_name.sh
 ```
-Ex : sh Exercise1.sh
+ Ex : sh Exercise1.sh
